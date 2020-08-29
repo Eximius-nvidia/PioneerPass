@@ -1,0 +1,61 @@
+
+{
+	"locations" : [
+		{
+			"deviceID" : "1641",
+			"location" : "Hoodi",
+			"thresholdtemp" : "21.000"
+		},
+		{
+			"deviceID" : "1642",
+			"location" : "HSR Layout",
+			"thresholdtemp" : "49.000"
+		},
+		{
+			"deviceID" : "1643",
+			"location" : "K R Puram",
+			"thresholdtemp" : "30.000"
+		},
+		
+		{
+			"deviceID" : "1644",
+			"location" : "Marathahalli",
+			"thresholdtemp" : "25.000"
+		},
+		
+		{
+			"deviceID" : "1645",
+			"location" : "Bommanahalli",
+			"thresholdtemp" : "40.000"
+		},
+		
+		{
+			"deviceID" : "1646",
+			"location" : "Hebbal",
+			"thresholdtemp" : "36.000"
+		},
+		
+		{
+			"deviceID" : "1647",
+			"location" : "C V Raman Nagar",
+			"thresholdtemp" : "39.000"
+		},
+		
+		{
+			"deviceID" : "1648",
+			"location" : "Kadubeesanahalli",
+			"thresholdtemp" : "28.000"
+		},
+		
+		{
+			"deviceID" : "1649",
+			"location" : "Silk board",
+			"thresholdtemp" : "46.000"
+		},
+		{
+			"deviceID" : "1650",
+			"location" : "Electonic City",
+			"thresholdtemp" : "32.000"
+		}
+	]
+}
